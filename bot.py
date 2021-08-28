@@ -1,11 +1,3 @@
-# Blockchain Wallet cracker : Using passphrase
-# Author : Yehan Wasura
-# Date : 2020 November 10
-# Help me on Patreon : patreon.com/yehanwasura
-# help me on PayPal : paypal.me/cyberrex599
-
-
-# Note: Educational Purposes only
 
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
